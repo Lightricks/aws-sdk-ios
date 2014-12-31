@@ -2502,7 +2502,6 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				OTHER_LDFLAGS = (
 					"-ObjC",
-					"-l\"Pods-Bolts\"",
 					"-l\"Pods-FMDB\"",
 					"-l\"Pods-GZIP\"",
 					"-l\"Pods-Reachability\"",
@@ -2533,7 +2532,6 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				OTHER_LDFLAGS = (
 					"-ObjC",
-					"-l\"Pods-Bolts\"",
 					"-l\"Pods-FMDB\"",
 					"-l\"Pods-GZIP\"",
 					"-l\"Pods-Reachability\"",
